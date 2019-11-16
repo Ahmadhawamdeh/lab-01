@@ -1,0 +1,12 @@
+#mainBody {
+    margin: auto;
+    color: #222;
+    display: grid;
+  }
+  
+  div {
+    outline: #555 1px solid;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+  }
